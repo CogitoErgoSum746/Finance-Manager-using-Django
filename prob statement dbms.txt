@@ -1,0 +1,18 @@
+The railway reservation system facilitates the passengers to enquire about the
+trains available one the basis of source and destination. 
+
+The aim 
+of this project is to design and develop a database maintaining the records of
+different trains, train status and passengers.
+
+This is organinzed using entities like User, Passenger, Train, Route.etc.
+
+For each User, we store a unique ID and passcode.
+
+For passenger, Gender, Age and seat no.
+
+In case of Train, a unique train_id and the train's status as to the seat is
+booked or still in wait.
+
+Route keeps track of attributes like no. of stops, depart_time,
+final_station.etc.
